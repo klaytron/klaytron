@@ -27,4 +27,4 @@ Model Context Protocol, vector RAG, and knowledge-graph search over code and iss
 
 ### Elsewhere
 
-[GitLab](https://gitlab.com/klaytron) · [LinkedIn](https://linkedin.com/in/clay-violand-256b71169)
+[GitLab](https://gitlab.com/klaytron) · [LinkedIn](https://linkedin.com/in/clayvioland)
